@@ -41,6 +41,7 @@ This book is written in a child-friendly tone with simple examples and clear for
 - Homeschoolers or coding clubs
 - Anyone learning C++ through playful practice
 
+<!--
 ---
 
 ## 📁 Files
@@ -49,6 +50,8 @@ This book is written in a child-friendly tone with simple examples and clear for
 |------|--------|
 | `📘 C++ for Clever Kids – Exercise Book.pdf` | Printable PDF |
 | `.docx`, `.odt`, `.rtf` | Editable formats |
+
+-->
 
 ---
 
