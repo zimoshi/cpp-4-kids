@@ -6,7 +6,7 @@ Welcome to the companion exercise book for **📘 C++ for Clever Kids!** — a b
 
 ## Downloads
 
-[DOCX](https://github.com/zimoshi/cpp-4-kids/raw/refs/heads/main/%F0%9F%93%98%20C++%20for%20Clever%20Kids%20%E2%80%93%20Exercise%20Book.docx)
+[DOCX](https://github.com/zimoshi/cpp-4-kids/raw/refs/heads/main/%F0%9F%93%98%20C++%20for%20Clever%20Kids%20%E2%80%93%20Exercise%20Book.docx)|[ODT](https://github.com/zimoshi/cpp-4-kids/raw/refs/heads/main/%F0%9F%93%98%20C++%20for%20Clever%20Kids%20%E2%80%93%20Exercise%20Book.odt)
 
 ---
 
