@@ -4,7 +4,7 @@ A fun, beginner-friendly C++ book made just for clever kids aged 5 to 9 (New Zea
 
 ## Downloads
 
-[PDF](https://raw.githubusercontent.com/zimoshi/cpp-4-kids/6c8ac2b118dccc97561fc63b354e16fbd687b90b/C++forCleverKids.pdf?token=BESLOBHNINC2ERDPUC5ROQ3IBLMA4)
+[PDF](https://raw.githubusercontent.com/zimoshi/cpp-4-kids/f1b3d1f25888510d49482610b3ebf5705c5e963e/C++forCleverKids.pdf?token=BESLOBBM7UX7QE3WDYXADHTIBLMYQ)
 
 ---
 
