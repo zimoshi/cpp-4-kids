@@ -55,4 +55,20 @@ This book is written in a child-friendly tone with simple examples and clear for
 
 ---
 
+## 🔒 License
+
+This book is released under the **MiniCube Personal License (MCPL)**.
+
+You may:
+- Read, print, and use this material for personal learning or classroom use.
+- Share it privately with others for educational purposes.
+
+You may **not**:
+- Re-host, fork, or redistribute it publicly without permission.
+- Sell or modify it for commercial use.
+
+Please contact the author for usage outside these terms.
+
+---
+
 Happy learning! 🌟
